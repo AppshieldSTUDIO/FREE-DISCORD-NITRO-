@@ -1,6 +1,6 @@
-// ==UserScript==
+// ==Скрипт==
 // @name         DiscordFreeNITRO
-// @namespace    https://github.com/AppshieldSTUDIO/FREE-DISCORD-NITRO-
+// @namespace    https://github.com/AppshieldSTUDIO/NITRO
 // @version      1.4.0.1
 // @description  Ссылка на эмодзи, если нет нитро
 // @author       An0
