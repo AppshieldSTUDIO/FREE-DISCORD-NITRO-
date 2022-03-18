@@ -1,4 +1,4 @@
 // ==Пользовательский скрипт==
-// @name          DiscordFreeEmojis
+// @name          DiscordFreeNITRO
 // @       версия 1.4.0.1
 // ==/Пользовательский скрипт==
